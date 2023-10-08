@@ -10,19 +10,19 @@ function Cards() {
         <div className="cards__container">
             <div className="cards__wrapper">
                 <ul className="cards__items">
+                <CardItem 
+                    src="images/Velocity.png"
+                    text="Velocity! Athlete Cognitive Training Mobile App "
+                    description="Cross-platform mobile app’s custom game library using NodeJS, Vue, TypeScript, and React Native."
+                    label=""
+                    path="https://apps.apple.com/us/app/velocity/id1641576004"
+                   />
                   <CardItem 
                     src="images/img-26.png"
                     text="GPT-3 Explain it Like I'm 5"
                     description="(In progress) Using OpenAI's GPT-3 API to develop an application that explains a topic in the simplest of terms"
                     path="https://aiexplainr.com"
-                   /> 
-                   <CardItem 
-                    src="images/img-25.png"
-                    text="Reaction Lights"
-                    description="Real time reaction lights simulator used by collegiate athletes"
-                    label=""
-                    path="https://github.com/KelbyKramer"
-                   /> 
+                   />
                   <CardItem 
                     src="images/img-23.png"
                     text="Kato Rewards"

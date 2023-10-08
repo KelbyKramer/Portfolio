@@ -59,7 +59,7 @@ export default function Services() {
         </div>
         <div class="flex justify-left items-center my-10 px-10">
             <div className="work-div">
-                3x Men's Basketball Team Captain, Minnesota State University
+                Professional Basketball Player (Montenegro), 3x Men's Basketball Team Captain, Minnesota State University
             </div>
         </div>
         <div class="flex justify-left items-center my-10 px-10">
